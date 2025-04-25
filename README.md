@@ -20,19 +20,6 @@ Este es un bot de Telegram simple que permite consultar información actualizada
 - **sentence-transformers** – para interpretación semántica de frases (IA ligera, local).
 - **python-dotenv** – para gestión de variables sensibles en un archivo `.env`.
 
-## 📁 Estructura del proyecto
-telegram-bot-f1/ 
-│ ├── bot/ # Lógica principal del bot 
-│ ├── handlers/ # Manejadores de comandos y respuestas 
-| ├── settings/ # Carga del .env
-│ ├── services/ # Conexión con la API de F1 
-│ ├── ai/ # Clasificación de intenciones con IA local 
-│ ├── .env # Variables de entorno (no subido al repo) 
-├── main.py # Punto de entrada de la aplicación 
-├── requirements.txt # Lista de dependencias 
-├── README.md
-
-
 ## ⚙️ Instalación y uso
 
 # Clona el repositorio
